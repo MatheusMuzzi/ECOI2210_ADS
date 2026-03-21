@@ -1,4 +1,4 @@
-# [cite_start]Projeto de Análise e Desenvolvimento de Software - Grupo 2 [cite: 1]
+# Projeto de Análise e Desenvolvimento de Software - Grupo 2 
 
 ## 📌 Sumário
 * [Membros da Equipe](#-membros-da-equipe)
@@ -9,24 +9,24 @@
 ---
 
 ## 👥 Membros da Equipe
-[cite_start]Todos os integrantes estão matriculados no curso de Engenharia de Computação/ICT[cite: 1].
+Todos os integrantes estão matriculados no curso de Engenharia de Computação/ICT.
 
-* **Gabriel Rodrigues Guimarães** - Matrícula: 2022013582 | [cite_start]E-mail: d2022013582@unifei.edu.br [cite: 1]
-* **João Vitor Pena Pacheco** - Matrícula: 2021004266 | [cite_start]E-mail: d2021004266@unifei.edu.br [cite: 1]
-* **Luan Fernandes Freitas** - Matrícula: 2019007108 | [cite_start]E-mail: luanfernandesfreitas@gmail.com [cite: 1]
-* **Matheus Lage Muzzi Cabral** - Matrícula: 2026003548 | [cite_start]E-mail: muzzimatheus05@gmail.com [cite: 1]
-* **Pedro Arthur Andrade Lopes** - Matrícula: 2026002961 | [cite_start]E-mail: piterblorg65@gmail.com [cite: 1]
-* **Tiago Andrade Marques** - Matrícula: 2024006550 | [cite_start]E-mail: tiagoandrademarques26@gmail.com [cite: 1]
+* **Gabriel Rodrigues Guimarães** - Matrícula: 2022013582 | E-mail: d2022013582@unifei.edu.br 
+* **João Vitor Pena Pacheco** - Matrícula: 2021004266 | E-mail: d2021004266@unifei.edu.br 
+* **Luan Fernandes Freitas** - Matrícula: 2019007108 | E-mail: luanfernandesfreitas@gmail.com 
+* **Matheus Lage Muzzi Cabral** - Matrícula: 2026003548 | E-mail: muzzimatheus05@gmail.com 
+* **Pedro Arthur Andrade Lopes** - Matrícula: 2026002961 | E-mail: piterblorg65@gmail.com 
+* **Tiago Andrade Marques** - Matrícula: 2024006550 | E-mail: tiagoandrademarques26@gmail.com 
 
 ---
 
 ## 🎯 Tema do Projeto (Em Definição)
 Atualmente, o grupo encontra-se na fase de ideação e levantamento de requisitos. O escopo final será definido a partir de uma das seguintes opções:
 
-* [cite_start]Consultar Drogaria Cristina[cite: 2].
-* [cite_start]Consultar Oralaligner[cite: 2].
-* [cite_start]Segunda opção da Precato (gerar documento padronizado e enviá-lo para o CRM)[cite: 2].
-* [cite_start]Mini hotmart da mãe do Gabriel[cite: 2].
+* Consultar Drogaria Cristina[cite: 2].
+* Consultar Oralaligner[cite: 2].
+* Segunda opção da Precato (gerar documento padronizado e enviá-lo para o CRM)[cite: 2].
+* Mini hotmart da mãe do Gabriel[cite: 2].
 
 ---
 
