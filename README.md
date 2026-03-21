@@ -23,10 +23,10 @@ Todos os integrantes estão matriculados no curso de Engenharia de Computação/
 ## 🎯 Tema do Projeto (Em Definição)
 Atualmente, o grupo encontra-se na fase de ideação e levantamento de requisitos. O escopo final será definido a partir de uma das seguintes opções:
 
-* Consultar Drogaria Cristina[cite: 2].
-* Consultar Oralaligner[cite: 2].
-* Segunda opção da Precato (gerar documento padronizado e enviá-lo para o CRM)[cite: 2].
-* Mini hotmart da mãe do Gabriel[cite: 2].
+* Consultar Drogaria Cristina.
+* Consultar Oralaligner.
+* Segunda opção da Precato (gerar documento padronizado e enviá-lo para o CRM).
+* Mini hotmart da mãe do Gabriel.
 
 ---
 
