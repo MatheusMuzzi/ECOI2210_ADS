@@ -5,7 +5,7 @@
 * [Tema do Projeto (Em Definição)](#-tema-do-projeto-em-definição)
 * [Metodologia Ágil](#-metodologia-ágil)
 * [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-* [Link do Drive] https://drive.google.com/drive/folders/1YdXCkTxeSgKvKTIjIM3pzzawn4xqiDlM?usp=share_link
+* Link do Drive (privado) https://drive.google.com/drive/folders/1YdXCkTxeSgKvKTIjIM3pzzawn4xqiDlM?usp=share_link
 
 ---
 
